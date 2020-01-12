@@ -1,0 +1,2 @@
+/start-hi,welcome to infotel bot
+/help-
